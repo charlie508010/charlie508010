@@ -1,12 +1,24 @@
-## Programmiersprachen & Tools
+Programmiersprachen & Tools
+
 - PHP
 - TypeScript
 - JavaScript
 - Node.js
+- Python
+
 - Home Assistant new
 - Matter / CHIP new
+- MQTT
 - Docker
-- Python
+- Linux
+- REST API
+- WebSockets
+- JSON / YAML
+
+- Proxmox
+- Tasmota
+- ESP32
+- SQLite
 
 <!--
 **charlie508010/charlie508010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
