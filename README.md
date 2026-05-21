@@ -1,4 +1,12 @@
-## Hi there 👋
+## Programmiersprachen & Tools
+- PHP
+- TypeScript
+- JavaScript
+- Node.js
+- Home Assistant new
+- Matter / CHIP nrw
+- Docker
+- Python
 
 <!--
 **charlie508010/charlie508010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
