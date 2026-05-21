@@ -4,7 +4,7 @@
 - JavaScript
 - Node.js
 - Home Assistant new
-- Matter / CHIP nrw
+- Matter / CHIP new
 - Docker
 - Python
 
